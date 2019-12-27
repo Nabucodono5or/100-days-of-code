@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 Iniciando o desafio com o projeto de coleções de itens do warframe, do qual se utilizará de angularJs e d3.js. https://github.com/Nabucodono5or/projeto_bloco_warframe
 
 ### R1D2
+Criando um mini projeto para teste de rotas no angularJs. [teste_route_provider](https://github.com/Nabucodono5or/teste_route_provider)
