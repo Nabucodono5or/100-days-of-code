@@ -9,3 +9,6 @@ Iniciando o desafio com o projeto de coleções de itens do warframe, do qual se
 
 ### R1D2
 Criando um mini projeto para teste de rotas no angularJs. [teste_route_provider](https://github.com/Nabucodono5or/teste_route_provider)
+
+### R1D3
+Sem internet, tive que voltar para um projeto do passado para aprendizado de d3.js. Testei alguns códigos e crie uma visualização de cores por escala de números.
