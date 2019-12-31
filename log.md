@@ -16,5 +16,5 @@ Sem internet, tive que voltar para um projeto do passado para aprendizado de d3.
 ### R1D4
 Mais um dia sem internet. Realizada a revisão de conceitos de d3.js com a criação de gráficos simples em barra.
 
-### R1D4
+### R1D5
 Trabalhando com scatter plot e alguns barchar. uso da biblioteca d3.js
