@@ -18,3 +18,6 @@ Mais um dia sem internet. Realizada a revis√£o de conceitos de d3.js com a cria√
 
 ### R1D5
 Trabalhando com scatter plot e alguns barchar. uso da biblioteca d3.js
+
+### R1D6
+Finalizando o entendimento do updating no projeto com d3.js
