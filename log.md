@@ -26,4 +26,7 @@ Finalizando o entendimento do updating no projeto com d3.js
 Terminei a ultima funcionalidade usando do entendimento em general updating pattern do d3.js, voltando para o projeto original.
 
 ### R1D8
-Voltando a trabalhar com o $routeProvider e terminando meus teste na library do angularjs. [teste_route_provider](https://github.com/Nabucodono5or/teste_route_provider)
+Voltando a trabalhar com o $routeProvider e terminando meus teste na library do angularjs. [teste_route_provider](https://github.com/Nabucodono5or/teste_route_provider).
+
+### R1D9
+Migrando do ngRoute para o ui-router em um novo projeto. [ui_router_tester](https://github.com/Nabucodono5or/ui_router_tester).
