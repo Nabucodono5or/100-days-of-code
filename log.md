@@ -30,3 +30,6 @@ Voltando a trabalhar com o $routeProvider e terminando meus teste na library do 
 
 ### R1D9
 Migrando do ngRoute para o ui-router em um novo projeto. [ui_router_tester](https://github.com/Nabucodono5or/ui_router_tester).
+
+### R1D10
+Terminado projeto [ui_router_tester](https://github.com/Nabucodono5or/ui_router_tester), e iniciando outro pequeno projeto para terstar views e suas hierarquias [ui_router_tester_views](https://github.com/Nabucodono5or/ui_router_tester_views).
