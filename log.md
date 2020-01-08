@@ -33,3 +33,6 @@ Migrando do ngRoute para o ui-router em um novo projeto. [ui_router_tester](http
 
 ### R1D10
 Terminado projeto [ui_router_tester](https://github.com/Nabucodono5or/ui_router_tester), e iniciando outro pequeno projeto para terstar views e suas hierarquias [ui_router_tester_views](https://github.com/Nabucodono5or/ui_router_tester_views).
+
+### R1D11
+Infelizmente perdi muito tempo no design simples da página, mas ao menos está legível. [ui_router_tester_views](https://github.com/Nabucodono5or/ui_router_tester_views).
