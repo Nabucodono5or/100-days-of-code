@@ -40,5 +40,5 @@ Infelizmente perdi muito tempo no design simples da página, mas ao menos está 
 ### R1D12
 Começando um pouco mais cedo. Testei todas as possibilidades de hierarquias de views no [ui_router_tester_views](https://github.com/Nabucodono5or/ui_router_tester_views).
 
-### R1D12
+### R1D13
 Ainda não doi dessa vez, porém quase no fim do projeto [ui_router_tester_views](https://github.com/Nabucodono5or/ui_router_tester_views).
