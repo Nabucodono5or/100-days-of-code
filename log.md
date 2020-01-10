@@ -38,4 +38,7 @@ Terminado projeto [ui_router_tester](https://github.com/Nabucodono5or/ui_router_
 Infelizmente perdi muito tempo no design simples da página, mas ao menos está legível. [ui_router_tester_views](https://github.com/Nabucodono5or/ui_router_tester_views).
 
 ### R1D12
-Começando um puco mais cedo. Testei todas as possibilidades de hierarquias de views no [ui_router_tester_views](https://github.com/Nabucodono5or/ui_router_tester_views).
+Começando um pouco mais cedo. Testei todas as possibilidades de hierarquias de views no [ui_router_tester_views](https://github.com/Nabucodono5or/ui_router_tester_views).
+
+### R1D12
+Ainda não doi dessa vez, porém quase no fim do projeto [ui_router_tester_views](https://github.com/Nabucodono5or/ui_router_tester_views).
