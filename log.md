@@ -42,3 +42,6 @@ Começando um pouco mais cedo. Testei todas as possibilidades de hierarquias de 
 
 ### R1D13
 Ainda não doi dessa vez, porém quase no fim do projeto [ui_router_tester_views](https://github.com/Nabucodono5or/ui_router_tester_views).
+
+### R1D14
+Frchando o projeto de testes com ui router cpm nsted views e envios de dados entre states [ui_router_tester_views](https://github.com/Nabucodono5or/ui_router_tester_views).
