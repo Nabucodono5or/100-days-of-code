@@ -48,3 +48,11 @@ Frchando o projeto de testes com ui router cpm nsted views e envios de dados ent
 
 ### R1D15
 Problemas para entender o funcionamento do resolve com components no projeto de teste [ui_router_tester_views](https://github.com/Nabucodono5or/ui_router_tester_views).
+
+### R1D16
+Praticando e revisando a syntax sql, além de algumas funcionalidades do server MySQL.
+
+### R1D17
+Relalizando diversos testes de consultas com sql em um server MySQL.
+
+
