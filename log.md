@@ -53,6 +53,8 @@ Problemas para entender o funcionamento do resolve com components no projeto de 
 Praticando e revisando a syntax sql, além de algumas funcionalidades do server MySQL.
 
 ### R1D17
-Relalizando diversos testes de consultas com sql em um server MySQL.
+Realizando diversos testes de consultas com sql em um server MySQL.
 
+### R1D18
+Trabalhando com subqueries e inner join.
 
