@@ -58,3 +58,5 @@ Realizando diversos testes de consultas com sql em um server MySQL.
 ### R1D18
 Trabalhando com subqueries e inner join.
 
+### R1D19
+Voltando a trabalhar com angularJs no término de testes do ui-router [ui_router_tester_views](https://github.com/Nabucodono5or/ui_router_tester_views).
