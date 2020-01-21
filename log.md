@@ -63,3 +63,6 @@ Voltando a trabalhar com angularJs no término de testes do ui-router [ui_router
 
 ### R1D20
 Finalmente resoilvido aquele bug extremamaente irritante e ao mesmo tempo entendendo um pouco mais sobre ui-router e angularJs como um todo. [ui_router_tester](https://github.com/Nabucodono5or/ui_router_tester).
+
+### R1D21
+Trabalhando no design de uma [página web simples](https://github.com/Nabucodono5or/page1_projeto) com flex box e parallax.
