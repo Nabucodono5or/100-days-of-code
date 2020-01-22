@@ -66,3 +66,6 @@ Finalmente resoilvido aquele bug extremamaente irritante e ao mesmo tempo entend
 
 ### R1D21
 Trabalhando no design de uma [página web simples](https://github.com/Nabucodono5or/page1_projeto) com flex box e parallax.
+
+### R1D22
+Trabalhando ainda no design da [página web simples](https://github.com/Nabucodono5or/page1_projeto).
