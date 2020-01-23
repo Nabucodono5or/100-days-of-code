@@ -69,3 +69,6 @@ Trabalhando no design de uma [página web simples](https://github.com/Nabucodono
 
 ### R1D22
 Trabalhando ainda no design da [página web simples](https://github.com/Nabucodono5or/page1_projeto).
+
+### R1D23
+Inserido icones e criado o menu clicavel. [página web simples](https://github.com/Nabucodono5or/page1_projeto).
