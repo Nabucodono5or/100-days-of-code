@@ -75,3 +75,6 @@ Inserido icones e criado o menu clicavel. [página web simples](https://github.c
 
 ### R1D23
 Terminado projeto simples de [página web simples](https://github.com/Nabucodono5or/page1_projeto).
+
+### R1D24
+Testando API Warframe que organiza todos os itens do jogo no [projto de bloco](https://github.com/Nabucodono5or/projeto_bloco_warframe).
