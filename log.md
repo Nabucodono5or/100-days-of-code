@@ -78,3 +78,9 @@ Terminado projeto simples de [página web simples](https://github.com/Nabucodono
 
 ### R1D24
 Testando API Warframe que organiza todos os itens do jogo no [projto de bloco](https://github.com/Nabucodono5or/projeto_bloco_warframe).
+
+### R1D25
+Criado servidor nodejs com express e nodemon, para o consumo da api [Warframe-itens](https://www.npmjs.com/package/warframe-items); O projeto segue como sendo [api servidor warframe](https://github.com/Nabucodono5or/api_servidor_warframe).
+
+### R1D26
+Terminado todos os endpoints na [servidor warframe](https://github.com/Nabucodono5or/api_servidor_warframe) que gera um webservice simples. 
