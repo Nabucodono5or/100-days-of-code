@@ -84,3 +84,6 @@ Criado servidor nodejs com express e nodemon, para o consumo da api [Warframe-it
 
 ### R1D26
 Terminado todos os endpoints na [servidor warframe](https://github.com/Nabucodono5or/api_servidor_warframe) que gera um webservice simples. 
+
+### R1D27
+Criada uma pequena aplicação que monitora mudanças em arquivos em um novo projeto para [pequenas práticas de nodejs](https://github.com/Nabucodono5or/praticas_de_nodejs) com o intuito de não ficar sem programar um dia, em nodejs.
