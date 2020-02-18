@@ -87,3 +87,6 @@ Terminado todos os endpoints na [servidor warframe](https://github.com/Nabucodon
 
 ### R1D27
 Criada uma pequena aplicação que monitora mudanças em arquivos em um novo projeto para [pequenas práticas de nodejs](https://github.com/Nabucodono5or/praticas_de_nodejs) com o intuito de não ficar sem programar um dia, em nodejs.
+
+### R1D28
+Mais uma palicação, desta vez usando streams e child process no projeto de [pequenas práticas de nodejs](https://github.com/Nabucodono5or/praticas_de_nodejs).
