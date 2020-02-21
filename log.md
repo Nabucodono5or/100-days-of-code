@@ -90,3 +90,12 @@ Criada uma pequena aplicação que monitora mudanças em arquivos em um novo pro
 
 ### R1D28
 Mais uma palicação, desta vez usando streams e child process no projeto de [pequenas práticas de nodejs](https://github.com/Nabucodono5or/praticas_de_nodejs).
+
+### R1D29
+Estudo de SQl, com foco nas boas práticas do uso de subqueries.
+
+### R1D30
+Leitura da documentação do material angularjs e umas pequenas brincadeira em torno de suas funcionalidades.
+
+### R1D31
+Me acostumando com o uso do material angularjs no [projto de bloco](https://github.com/Nabucodono5or/projeto_bloco_warframe). Então por enquanto só foi criado o menu. Porém com isso descobrir as vantagens do uso de uma UI library.
