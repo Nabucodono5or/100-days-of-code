@@ -101,4 +101,7 @@ Leitura da documentação do material angularjs e umas pequenas brincadeira em t
 Me acostumando com o uso do material angularjs no [projto de bloco](https://github.com/Nabucodono5or/projeto_bloco_warframe). Então por enquanto só foi criado o menu. Porém com isso descobrir as vantagens do uso de uma UI library.
 
 ### R1D32
-A library angularjs material trouxe mais dor de cabeça que solução. Porém tudo é um aprendiado. No presente momento o [projto de bloco](https://github.com/Nabucodono5or/projeto_bloco_warframe) continua. 
+A library angularjs material trouxe mais dor de cabeça que solução. Porém tudo é um aprendizado. No presente momento o [projto de bloco](https://github.com/Nabucodono5or/projeto_bloco_warframe) continua. 
+
+### R1D33
+Finalmente dominando a library angularjs material, além de ter terminado a parte de listagens por categorias no [projto de bloco](https://github.com/Nabucodono5or/projeto_bloco_warframe).
