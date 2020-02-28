@@ -105,3 +105,7 @@ A library angularjs material trouxe mais dor de cabeça que solução. Porém tu
 
 ### R1D33
 Finalmente dominando a library angularjs material, além de ter terminado a parte de listagens por categorias no [projto de bloco](https://github.com/Nabucodono5or/projeto_bloco_warframe).
+
+### R1D34
+Praticamente foi mais planejar e consertar um bug para a rota padrão.
+[projto de bloco](https://github.com/Nabucodono5or/projeto_bloco_warframe).
