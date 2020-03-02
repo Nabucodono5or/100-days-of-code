@@ -112,3 +112,6 @@ Praticamente foi mais planejar e consertar um bug para a rota padrão.
 
 ### R1D35
 uma coisa pequena que se tornou grande, porém valeu o eforço. Com a criação do banner da página profile, estou mais perto do fim do [projto de bloco](https://github.com/Nabucodono5or/projeto_bloco_warframe).
+
+### R1D36
+Muito tempo perdendo com design. Preciso revisar grid e flexbox. [projto de bloco](https://github.com/Nabucodono5or/projeto_bloco_warframe).
