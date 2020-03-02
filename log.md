@@ -109,3 +109,6 @@ Finalmente dominando a library angularjs material, além de ter terminado a part
 ### R1D34
 Praticamente foi mais planejar e consertar um bug para a rota padrão.
 [projto de bloco](https://github.com/Nabucodono5or/projeto_bloco_warframe).
+
+### R1D35
+uma coisa pequena que se tornou grande, porém valeu o eforço. Com a criação do banner da página profile, estou mais perto do fim do [projto de bloco](https://github.com/Nabucodono5or/projeto_bloco_warframe).
