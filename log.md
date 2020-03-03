@@ -115,3 +115,6 @@ uma coisa pequena que se tornou grande, porém valeu o eforço. Com a criação 
 
 ### R1D36
 Muito tempo perdendo com design. Preciso revisar grid e flexbox. [projto de bloco](https://github.com/Nabucodono5or/projeto_bloco_warframe).
+
+### R1D37
+Terminado os principais componentes que não se utilizam de gráficos para o [projto de bloco](https://github.com/Nabucodono5or/projeto_bloco_warframe).
