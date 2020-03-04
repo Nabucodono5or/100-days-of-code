@@ -118,3 +118,6 @@ Muito tempo perdendo com design. Preciso revisar grid e flexbox. [projto de bloc
 
 ### R1D37
 Terminado os principais componentes que não se utilizam de gráficos para o [projto de bloco](https://github.com/Nabucodono5or/projeto_bloco_warframe).
+
+### R1D38
+Criado os componentes dos mods para o [projto de bloco](https://github.com/Nabucodono5or/projeto_bloco_warframe).
