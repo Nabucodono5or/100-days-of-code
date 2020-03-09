@@ -121,3 +121,6 @@ Terminado os principais componentes que não se utilizam de gráficos para o [pr
 
 ### R1D38
 Criado os componentes dos mods para o [projto de bloco](https://github.com/Nabucodono5or/projeto_bloco_warframe).
+
+### R1D39
+Preparado o componente search sem design de page. Criado componente raity e seu design. [projto de bloco](https://github.com/Nabucodono5or/projeto_bloco_warframe).
