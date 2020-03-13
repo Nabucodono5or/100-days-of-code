@@ -127,3 +127,6 @@ Preparado o componente search sem design de page. Criado componente raity e seu 
 
 ### R1D40
 Quase terminado a primeira etapa da aplicação, falta somente a última feature. [projto de bloco](https://github.com/Nabucodono5or/projeto_bloco_warframe).
+
+### R1D41
+Terminado a primeira etapa do [projto de bloco](https://github.com/Nabucodono5or/projeto_bloco_warframe).
