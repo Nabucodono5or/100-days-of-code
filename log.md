@@ -9,3 +9,6 @@ Iniciando o desafio com o projeto de coleções de itens do warframe, do qual se
 
 ### R1D2
 Terminado de explorar testes em angularjs com karma e jasmine. https://github.com/Nabucodono5or/test-with-karma 
+
+### R1D3
+Trabalhando com testes de promises. https://github.com/Nabucodono5or/test-with-karma
