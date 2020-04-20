@@ -12,3 +12,6 @@ Terminado de explorar testes em angularjs com karma e jasmine. https://github.co
 
 ### R1D3
 Trabalhando com testes de promises. https://github.com/Nabucodono5or/test-with-karma
+
+### R1D4
+Terminado testes no projeto. https://github.com/Nabucodono5or/test-with-karma
