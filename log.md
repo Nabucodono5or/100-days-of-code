@@ -15,3 +15,6 @@ Trabalhando com testes de promises. https://github.com/Nabucodono5or/test-with-k
 
 ### R1D4
 Terminado testes no projeto. https://github.com/Nabucodono5or/test-with-karma
+
+### R1D5
+Dia somente de estudos em banco de dados. Aprendendo um pouco mais de outer join.
