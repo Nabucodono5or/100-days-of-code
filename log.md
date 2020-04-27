@@ -21,3 +21,9 @@ Dia somente de estudos em banco de dados. Aprendendo um pouco mais de outer join
 
 ### R1D6
 Iniciado novo projeto https://github.com/Nabucodono5or/projeto_pokemon. Basicamente crie e configurei o ambiente do projeto e inserir o primeiro componente.
+
+### R1D7
+Postando em atraso. Dia de estudos em banco de dados, exercitando os conceitos de outer join e cross join.
+
+### R1D8
+Trabalhando no projeto https://github.com/Nabucodono5or/projeto_pokemon. Estudei o uso do $httpBackend no auxilio de testes, assim como mockar a função de um service externo.
