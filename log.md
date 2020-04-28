@@ -27,3 +27,6 @@ Postando em atraso. Dia de estudos em banco de dados, exercitando os conceitos d
 
 ### R1D8
 Trabalhando no projeto https://github.com/Nabucodono5or/projeto_pokemon. Estudei o uso do $httpBackend no auxilio de testes, assim como mockar a função de um service externo.
+
+### R1D9
+Aprendendo condicional logic em sql.
