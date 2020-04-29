@@ -30,3 +30,6 @@ Trabalhando no projeto https://github.com/Nabucodono5or/projeto_pokemon. Estudei
 
 ### R1D9
 Aprendendo condicional logic em sql.
+
+### R1D10
+Atraso no projeto https://github.com/Nabucodono5or/projeto_pokemon devido a um bug inesperado, sendo corrigido no final.
