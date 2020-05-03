@@ -33,3 +33,9 @@ Aprendendo condicional logic em sql.
 
 ### R1D10
 Atraso no projeto https://github.com/Nabucodono5or/projeto_pokemon devido a um bug inesperado, sendo corrigido no final.
+
+### R1D11
+Estudo de transaction do mysql de quinta feira. Infelizmente esquicido de publicar.
+
+### R1D12
+Criando o designer e animação do componente toolbar do projeto. https://github.com/Nabucodono5or/projeto_pokemon.
