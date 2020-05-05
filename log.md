@@ -39,3 +39,6 @@ Estudo de transaction do mysql de quinta feira. Infelizmente esquicido de public
 
 ### R1D12
 Criando o designer e animação do componente toolbar do projeto. https://github.com/Nabucodono5or/projeto_pokemon.
+
+### R1D13
+Tentando criar uma solução para o evento de click no menu do projeto https://github.com/Nabucodono5or/projeto_pokemon.
