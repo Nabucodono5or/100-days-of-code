@@ -45,3 +45,6 @@ Tentando criar uma solução para o evento de click no menu do projeto https://g
 
 ### R1D14
 Descartado o uso de directive para evento de click e estudo de teste do ui-router https://github.com/Nabucodono5or/projeto_pokemon.
+
+### R1D15
+Muita dor de cabeça com o projeto https://github.com/Nabucodono5or/projeto_pokemon na hora de testar routes com ui-router. Ainda falta um entendimento maior sobre o $stateParams em testes.
