@@ -48,3 +48,6 @@ Descartado o uso de directive para evento de click e estudo de teste do ui-route
 
 ### R1D15
 Muita dor de cabeça com o projeto https://github.com/Nabucodono5or/projeto_pokemon na hora de testar routes com ui-router. Ainda falta um entendimento maior sobre o $stateParams em testes.
+
+### R1D16
+Criado novo ambiente de trabalho. Preocupações com o uso de versão do node js e do npm, espero que tudo funcione corretamente.
