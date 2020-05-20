@@ -51,3 +51,9 @@ Muita dor de cabeça com o projeto https://github.com/Nabucodono5or/projeto_poke
 
 ### R1D16
 Criado novo ambiente de trabalho. Preocupações com o uso de versão do node js e do npm, espero que tudo funcione corretamente.
+
+### R1D17
+Iniciado estudo de shell script. Logo mais publicarei os scripts criados.
+
+### R1D18
+Resolvido problema com o teste do $stateParams no controller. https://github.com/Nabucodono5or/projeto_pokemon
