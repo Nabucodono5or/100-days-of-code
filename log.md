@@ -57,3 +57,21 @@ Iniciado estudo de shell script. Logo mais publicarei os scripts criados.
 
 ### R1D18
 Resolvido problema com o teste do $stateParams no controller. https://github.com/Nabucodono5or/projeto_pokemon
+
+### R1D19
+Estudando shell script; logo mais os publico.
+
+### R1D20
+Estudando os modolos do desafio santander com exercios incluídos.
+
+### R1D21
+Estudando angularJs testes com jasmine, karma e protactor.
+
+### R1D22
+Terminando alguns modulos do desafio santander. Falta somente o módulo de arrays. Leitura sobre angularJs tests.
+
+### R1D23
+Fim dos módulos de estudo santander. Leitura sobre shell script.
+
+### R1D24
+Reescrevendo testes e entendo erros mais amplos envolvendo o Karma testrunner.
