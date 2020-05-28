@@ -75,3 +75,6 @@ Fim dos módulos de estudo santander. Leitura sobre shell script.
 
 ### R1D24
 Reescrevendo testes e entendo erros mais amplos envolvendo o Karma testrunner.
+
+### R1D25
+Ainda reconfigurando o Karma.
