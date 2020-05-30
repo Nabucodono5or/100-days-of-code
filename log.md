@@ -78,3 +78,6 @@ Reescrevendo testes e entendo erros mais amplos envolvendo o Karma testrunner.
 
 ### R1D25
 Ainda reconfigurando o Karma.
+
+### R1D26
+Solucionada questão com relação ao karma, porém ainda por procurar o reload de alguns tests no browser. https://github.com/Nabucodono5or/projeto_pokemon
