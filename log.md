@@ -81,3 +81,6 @@ Ainda reconfigurando o Karma.
 
 ### R1D26
 Solucionada questão com relação ao karma, porém ainda por procurar o reload de alguns tests no browser. https://github.com/Nabucodono5or/projeto_pokemon
+
+### R1D27
+Hoje comecei a realizar os desafios do satander coders, poderia terminar todos hoje, porém estou optando para realizar isso amanhã.
