@@ -84,3 +84,9 @@ Solucionada questão com relação ao karma, porém ainda por procurar o reload 
 
 ### R1D27
 Hoje comecei a realizar os desafios do satander coders, poderia terminar todos hoje, porém estou optando para realizar isso amanhã.
+
+### R1D28
+Fim do Santander coders, publicando com um dia de atraso.
+
+### R1D29
+Limpado testes, inserido imagens e informações sobre pekemon. https://github.com/Nabucodono5or/projeto_pokemon
