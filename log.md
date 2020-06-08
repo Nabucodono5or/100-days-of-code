@@ -90,3 +90,6 @@ Fim do Santander coders, publicando com um dia de atraso.
 
 ### R1D29
 Limpado testes, inserido imagens e informações sobre pekemon. https://github.com/Nabucodono5or/projeto_pokemon
+
+### R1D30
+Estudando e praticando criptografia com pgp.
