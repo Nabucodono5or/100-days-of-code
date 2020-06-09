@@ -93,3 +93,6 @@ Limpado testes, inserido imagens e informações sobre pekemon. https://github.c
 
 ### R1D30
 Estudando e praticando criptografia com pgp.
+
+### R1D31
+Praticando comunicação com criptografia usando chaves gpg.
