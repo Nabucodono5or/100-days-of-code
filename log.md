@@ -96,3 +96,6 @@ Estudando e praticando criptografia com pgp.
 
 ### R1D31
 Praticando comunicação com criptografia usando chaves gpg.
+
+### R1D32
+Pesquisando sobre ssh e seu funcionamento.
