@@ -99,3 +99,6 @@ Praticando comunicação com criptografia usando chaves gpg.
 
 ### R1D32
 Pesquisando sobre ssh e seu funcionamento.
+
+### R1D33
+Finalmente voltando ao projeto. Hoje foi focado inteiramente no design do site.
