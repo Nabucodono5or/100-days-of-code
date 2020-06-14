@@ -102,3 +102,6 @@ Pesquisando sobre ssh e seu funcionamento.
 
 ### R1D33
 Finalmente voltando ao projeto. Hoje foi focado inteiramente no design do site.
+
+### R1D34
+Terminado design da página que lista pokémon e criação de novo componente perfil.
