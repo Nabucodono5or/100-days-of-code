@@ -105,3 +105,6 @@ Finalmente voltando ao projeto. Hoje foi focado inteiramente no design do site.
 
 ### R1D34
 Terminado design da página que lista pokémon e criação de novo componente perfil.
+
+### R1D35
+Dia muito cheio, mas por fim consegui efetuar mais alguns testes e ter criada a route para o componente perfil.
