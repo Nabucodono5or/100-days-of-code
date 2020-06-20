@@ -108,3 +108,9 @@ Terminado design da página que lista pokémon e criação de novo componente pe
 
 ### R1D35
 Dia muito cheio, mas por fim consegui efetuar mais alguns testes e ter criada a route para o componente perfil.
+
+### R1D36
+Design definido para o projeto https://github.com/Nabucodono5or/projeto_pokemon. e inicio do estudo para o uso mais eficiente da library d3js.
+
+### R1D37
+Criado testes e estrutura dos projetos experimentais com d3js. Resolvido a integração de parcel com d3js.
