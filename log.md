@@ -114,3 +114,6 @@ Design definido para o projeto https://github.com/Nabucodono5or/projeto_pokemon.
 
 ### R1D37
 Criado testes e estrutura dos projetos experimentais com d3js. Resolvido a integração de parcel com d3js.
+
+### R1D38
+Controlando o DOM com select e selectAll em d3js. Binding dados as páginas.
