@@ -117,3 +117,6 @@ Criado testes e estrutura dos projetos experimentais com d3js. Resolvido a integ
 
 ### R1D38
 Controlando o DOM com select e selectAll em d3js. Binding dados as páginas.
+
+### R1D39
+Praticando o uso do PGP e setando configuracao para a prática do ssh. Md5 também foi usado.
