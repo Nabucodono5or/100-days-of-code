@@ -120,3 +120,6 @@ Controlando o DOM com select e selectAll em d3js. Binding dados as páginas.
 
 ### R1D39
 Praticando o uso do PGP e setando configuracao para a prática do ssh. Md5 também foi usado.
+
+### R1D40
+Criando graficos barchar de json e csv.
