@@ -123,3 +123,6 @@ Praticando o uso do PGP e setando configuracao para a prática do ssh. Md5 tamb�
 
 ### R1D40
 Criando graficos barchar de json e csv.
+
+### R1D41
+Criando gráficos scatterplot com e sem labels.
