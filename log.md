@@ -126,3 +126,6 @@ Criando graficos barchar de json e csv.
 
 ### R1D41
 Criando gráficos scatterplot com e sem labels.
+
+### R1D42
+Testando o método exit() e updating o DOM através do 're-select' em d3js.
