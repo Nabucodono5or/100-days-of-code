@@ -129,3 +129,9 @@ Criando gráficos scatterplot com e sem labels.
 
 ### R1D42
 Testando o método exit() e updating o DOM através do 're-select' em d3js.
+
+### R1D43
+Muita teoria sobre cores em d3js e pouca prática.
+
+### R1D44
+Criado scatterploit com uso de objetos como identificadores, e inicio da criação de gráfico dinamico com jogos de futebol.
