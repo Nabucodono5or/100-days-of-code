@@ -135,3 +135,6 @@ Muita teoria sobre cores em d3js e pouca prática.
 
 ### R1D44
 Criado scatterploit com uso de objetos como identificadores, e inicio da criação de gráfico dinamico com jogos de futebol.
+
+### R1D45
+Criado animações em gráficos com trasition, duration e delay. Entendido o uso do this em d3js com function arrow e function não declarativa.
