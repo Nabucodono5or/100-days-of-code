@@ -138,3 +138,9 @@ Criado scatterploit com uso de objetos como identificadores, e inicio da criaç�
 
 ### R1D45
 Criado animações em gráficos com trasition, duration e delay. Entendido o uso do this em d3js com function arrow e function não declarativa.
+
+### R1D46
+Apenas estudo e alguns pequenos testes com cores.
+
+### R1D47
+Conserto do bug de alteração de cores do através do uso de classes em javascritp com d3js.
