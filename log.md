@@ -144,3 +144,6 @@ Apenas estudo e alguns pequenos testes com cores.
 
 ### R1D47
 Conserto do bug de alteração de cores do através do uso de classes em javascritp com d3js.
+
+### R1D48
+Testado os esquemas de cores internos da library com quantilize e scaleOrdinal. Surgiu um novo bug, a não inserção das imagens.
