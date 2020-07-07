@@ -147,3 +147,6 @@ Conserto do bug de alteração de cores do através do uso de classes em javascr
 
 ### R1D48
 Testado os esquemas de cores internos da library com quantilize e scaleOrdinal. Surgiu um novo bug, a não inserção das imagens.
+
+### R1D49
+Conserto da inserção de imagens, e estudo do uso de fragmentos html.
