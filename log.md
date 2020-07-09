@@ -150,3 +150,6 @@ Testado os esquemas de cores internos da library com quantilize e scaleOrdinal. 
 
 ### R1D49
 Conserto da inserção de imagens, e estudo do uso de fragmentos html.
+
+### R1D50
+Testando a inserção de imagens svg como elementos svg.
