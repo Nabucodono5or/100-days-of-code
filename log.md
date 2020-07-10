@@ -153,3 +153,6 @@ Conserto da inserção de imagens, e estudo do uso de fragmentos html.
 
 ### R1D50
 Testando a inserção de imagens svg como elementos svg.
+
+### R1D51
+Criando axis em scatterplot.
