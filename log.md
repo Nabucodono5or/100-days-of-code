@@ -9,3 +9,6 @@ Reinciando projeto de 100 dias de coigo. Infelizmente devido a contratempos fiqu
 
 ### R1D2
 Não acredito que passei horas para entender uma lógica simples. Preciso programar mais!
+
+### R1D3
+Terminada a formatação dos dados, inclusive o calculo dos dados para as propriedades quantificadoras.
