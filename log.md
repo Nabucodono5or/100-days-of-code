@@ -24,3 +24,6 @@ Estudo do steamgraph e teste de pequenas funções.
 
 ### R1D7
 Terminada a criação de pequeno projeto envolvendo boxplot. Estudo do line chart.
+
+### R1D8
+Terminado prática de line chart e iniciado novo projeto envolvendo line chart.
