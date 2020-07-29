@@ -27,3 +27,6 @@ Terminada a criação de pequeno projeto envolvendo boxplot. Estudo do line char
 
 ### R1D8
 Terminado prática de line chart e iniciado novo projeto envolvendo line chart.
+
+### R1D9
+Inseridos os pontos de identificação dos dados e a mensuração dos dados csv.
