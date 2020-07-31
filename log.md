@@ -30,3 +30,9 @@ Terminado prática de line chart e iniciado novo projeto envolvendo line chart.
 
 ### R1D9
 Inseridos os pontos de identificação dos dados e a mensuração dos dados csv.
+
+### R1D10
+Transcrevendo a teoria de area chart e steamgraph.
+
+### R1D11
+Inserido eventos e transições para o line chart projeto.
