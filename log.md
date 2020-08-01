@@ -36,3 +36,6 @@ Transcrevendo a teoria de area chart e steamgraph.
 
 ### R1D11
 Inserido eventos e transições para o line chart projeto.
+
+### R1D12
+inserindo segundo chart e definindo design para os outros.
