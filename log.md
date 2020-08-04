@@ -39,3 +39,12 @@ Inserido eventos e transições para o line chart projeto.
 
 ### R1D12
 inserindo segundo chart e definindo design para os outros.
+
+### R1D13
+Estudando pie chart.
+
+### R1D14
+Entrando na nlw da rocketseat, criando o ambiente e desenvolvendo o primeiro componente react.
+
+### R1D15
+Criando as rotas no projeto proffy da rocktseat.
