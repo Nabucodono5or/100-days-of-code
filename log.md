@@ -48,3 +48,6 @@ Entrando na nlw da rocketseat, criando o ambiente e desenvolvendo o primeiro com
 
 ### R1D15
 Criando as rotas no projeto proffy da rocktseat.
+
+### R1D16
+Trabalhando com o back-end da aplicação.
