@@ -51,3 +51,6 @@ Criando as rotas no projeto proffy da rocktseat.
 
 ### R1D16
 Trabalhando com o back-end da aplicação.
+
+### R1D17
+Terminada a etapa back end com database.
