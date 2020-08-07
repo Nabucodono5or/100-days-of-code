@@ -54,3 +54,6 @@ Trabalhando com o back-end da aplicação.
 
 ### R1D17
 Terminada a etapa back end com database.
+
+### R1D18
+Terminada a aplicação web.
