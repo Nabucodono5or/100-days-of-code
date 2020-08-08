@@ -57,3 +57,6 @@ Terminada a etapa back end com database.
 
 ### R1D18
 Terminada a aplicação web.
+
+### R1D19
+Iniciada aplicação mobile.
