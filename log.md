@@ -60,3 +60,6 @@ Terminada a aplicação web.
 
 ### R1D19
 Iniciada aplicação mobile.
+
+### R1D20
+Fnalmnente! Que semana, finalmente o término da aplicação mobile com react native, juntando com todo esse trabalho foi realizada a aplicação web responsiva e o servidor beckend ao qual a aplicação web e mobile se conectam.
