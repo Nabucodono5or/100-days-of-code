@@ -66,3 +66,6 @@ Fnalmnente! Que semana, finalmente o término da aplicação mobile com react na
 
 ### R1D21
 Voltando ao ritmo. Para recomeçar, foi resolvido o problema de trabsitções no line chart pequeno.
+
+### R1D22
+Refatorado a little line chart. Inserido função para criar barchar com suas primeiras medidas.
