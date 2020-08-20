@@ -69,3 +69,6 @@ Voltando ao ritmo. Para recomeçar, foi resolvido o problema de trabsitções no
 
 ### R1D22
 Refatorado a little line chart. Inserido função para criar barchar com suas primeiras medidas.
+
+### R1D23
+Refatorando medidas, adcionando axis no histogram e não conseguindo entender o histogram.
