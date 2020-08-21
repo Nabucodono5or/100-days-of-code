@@ -72,3 +72,6 @@ Refatorado a little line chart. Inserido função para criar barchar com suas pr
 
 ### R1D23
 Refatorando medidas, adcionando axis no histogram e não conseguindo entender o histogram.
+
+### R1D24
+Criado bar chart, porém para a próxima definir padrões de medidas para os gráficos, torná-los menos hard-coded.
