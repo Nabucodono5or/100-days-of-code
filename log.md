@@ -75,3 +75,6 @@ Refatorando medidas, adcionando axis no histogram e não conseguindo entender o 
 
 ### R1D24
 Criado bar chart, porém para a próxima definir padrões de medidas para os gráficos, torná-los menos hard-coded.
+
+### R1D25
+Terminada bar chart e terminado mensuração dos dados da segunda line chart.
