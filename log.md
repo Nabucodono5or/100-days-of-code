@@ -78,3 +78,6 @@ Criado bar chart, porém para a próxima definir padrões de medidas para os gr�
 
 ### R1D25
 Terminada bar chart e terminado mensuração dos dados da segunda line chart.
+
+### R1D26
+Terminado projeto de d3js simples.
