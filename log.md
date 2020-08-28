@@ -81,3 +81,6 @@ Terminada bar chart e terminado mensuração dos dados da segunda line chart.
 
 ### R1D26
 Terminado projeto de d3js simples.
+
+### R1D27
+Iniciado segundo projeto com d3js based em dashboard.
