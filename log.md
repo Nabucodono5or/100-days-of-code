@@ -87,3 +87,6 @@ Iniciado segundo projeto com d3js based em dashboard.
 
 ### R1D28
 Terminado o design do sugundo projeto com d3js based em dashboard. Também foi inserido as medidas do rating.
+
+### R1D29
+Criado primero chart, mas ainda estou atrasado.
