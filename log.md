@@ -90,3 +90,6 @@ Terminado o design do sugundo projeto com d3js based em dashboard. Também foi i
 
 ### R1D29
 Criado primero chart, mas ainda estou atrasado.
+
+### R1D30
+Feita a distribuição de dados com o histogram.
