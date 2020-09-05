@@ -93,3 +93,6 @@ Criado primero chart, mas ainda estou atrasado.
 
 ### R1D30
 Feita a distribuição de dados com o histogram.
+
+### R1D31
+Terminado projeto de teste do histogram.
