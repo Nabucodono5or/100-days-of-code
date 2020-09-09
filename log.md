@@ -96,3 +96,6 @@ Feita a distribuição de dados com o histogram.
 
 ### R1D31
 Terminado projeto de teste do histogram.
+
+### R1D32
+Voltando ao sugundo projeto com d3js based em dashboard. Terminado a inserção dos charts.
