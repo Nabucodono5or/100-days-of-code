@@ -99,3 +99,6 @@ Terminado projeto de teste do histogram.
 
 ### R1D32
 Voltando ao sugundo projeto com d3js based em dashboard. Terminado a inserção dos charts.
+
+### R1D33
+Voltando depois de um longo tempo sem programar. Preparando o novo ambiente de desenvolvimento.
