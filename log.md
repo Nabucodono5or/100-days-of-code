@@ -102,3 +102,6 @@ Voltando ao sugundo projeto com d3js based em dashboard. Terminado a inserção 
 
 ### R1D33
 Voltando depois de um longo tempo sem programar. Preparando o novo ambiente de desenvolvimento.
+
+### R1D34
+Falta definir a variação dos line charts. Como inserir vários em um mesmo gráfico.
