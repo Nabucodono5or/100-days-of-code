@@ -105,3 +105,6 @@ Voltando depois de um longo tempo sem programar. Preparando o novo ambiente de d
 
 ### R1D34
 Falta definir a variação dos line charts. Como inserir vários em um mesmo gráfico.
+
+### R1D35
+Testando conceitos de piechart. Não produzir muito, apesar de ter entendido seu funcionamento.
