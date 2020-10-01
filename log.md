@@ -108,3 +108,6 @@ Falta definir a variação dos line charts. Como inserir vários em um mesmo gr�
 
 ### R1D35
 Testando conceitos de piechart. Não produzir muito, apesar de ter entendido seu funcionamento.
+
+### R1D36
+Piechart evoluido para exibição de tooltip e legendas.
