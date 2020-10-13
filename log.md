@@ -111,3 +111,6 @@ Testando conceitos de piechart. Não produzir muito, apesar de ter entendido seu
 
 ### R1D36
 Piechart evoluido para exibição de tooltip e legendas.
+
+### R1D37
+Piechart moderno terminado, falta trabalhar com as animações, contudo estou prosseguindo para pack layouts. Tentando entender como usar as novas funções do d3js para transformar dados json em objeto hierarquicos.
