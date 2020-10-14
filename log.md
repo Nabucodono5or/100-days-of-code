@@ -114,3 +114,6 @@ Piechart evoluido para exibição de tooltip e legendas.
 
 ### R1D37
 Piechart moderno terminado, falta trabalhar com as animações, contudo estou prosseguindo para pack layouts. Tentando entender como usar as novas funções do d3js para transformar dados json em objeto hierarquicos.
+
+### R1D38
+Criada uma tree simples e uso do group para criar hierarchy diagrams.
