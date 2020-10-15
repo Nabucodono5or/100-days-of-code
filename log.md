@@ -117,3 +117,6 @@ Piechart moderno terminado, falta trabalhar com as animações, contudo estou pr
 
 ### R1D38
 Criada uma tree simples e uso do group para criar hierarchy diagrams.
+
+### R1D39
+Usado zoom e adcional de titulos usando condição ternária.
