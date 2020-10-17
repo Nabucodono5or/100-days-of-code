@@ -120,3 +120,6 @@ Criada uma tree simples e uso do group para criar hierarchy diagrams.
 
 ### R1D39
 Usado zoom e adcional de titulos usando condição ternária.
+
+### R1D40
+Criado gráfico tree para países e seus continentes, tanto em formato horizontal tree, quanto radial.
