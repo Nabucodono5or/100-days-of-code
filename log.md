@@ -123,3 +123,6 @@ Usado zoom e adcional de titulos usando condição ternária.
 
 ### R1D40
 Criado gráfico tree para países e seus continentes, tanto em formato horizontal tree, quanto radial.
+
+### R1D41
+Criado axis, formatado os dados adequadamente para o stack e usado de funcões auxiliares na organização dos dados.
