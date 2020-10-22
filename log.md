@@ -126,3 +126,6 @@ Criado gráfico tree para países e seus continentes, tanto em formato horizonta
 
 ### R1D41
 Criado axis, formatado os dados adequadamente para o stack e usado de funcões auxiliares na organização dos dados.
+
+### R1D42
+Criando pack chart com dados nada convencionais. Sucesso em sua implantação.
