@@ -129,3 +129,6 @@ Criado axis, formatado os dados adequadamente para o stack e usado de funcões a
 
 ### R1D42
 Criando pack chart com dados nada convencionais. Sucesso em sua implantação.
+
+### R1D43
+Criando um map chart e terminado packChart.
