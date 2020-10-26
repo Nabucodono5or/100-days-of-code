@@ -132,3 +132,6 @@ Criando pack chart com dados nada convencionais. Sucesso em sua implantação.
 
 ### R1D43
 Criando um map chart e terminado packChart.
+
+### R1D44
+Terminado map chart com zooming.
