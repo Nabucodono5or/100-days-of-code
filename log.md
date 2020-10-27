@@ -135,3 +135,6 @@ Criando um map chart e terminado packChart.
 
 ### R1D44
 Terminado map chart com zooming.
+
+### R1D45
+Criando um map com legendas.
