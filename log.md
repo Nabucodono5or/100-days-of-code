@@ -138,3 +138,6 @@ Terminado map chart com zooming.
 
 ### R1D45
 Criando um map com legendas.
+
+### R1D46
+Upgrade no projeto de map com legendas.
