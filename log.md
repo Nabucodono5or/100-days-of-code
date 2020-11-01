@@ -141,3 +141,9 @@ Criando um map com legendas.
 
 ### R1D46
 Upgrade no projeto de map com legendas.
+
+### R1D47
+Fixing bugg no chorepleth map.
+
+### R1D48
+Finalizado projeto chorepleth map.
