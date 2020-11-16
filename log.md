@@ -147,3 +147,6 @@ Fixing bugg no chorepleth map.
 
 ### R1D48
 Finalizado projeto chorepleth map.
+
+### R1D49
+Atualizando as bibliotecas do blog e instalando ferrementas de desenvolvimento do blog.
