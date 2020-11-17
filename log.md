@@ -150,3 +150,6 @@ Finalizado projeto chorepleth map.
 
 ### R1D49
 Atualizando as bibliotecas do blog e instalando ferrementas de desenvolvimento do blog.
+
+### R1D50
+Criando dev server com webpack e fazendo merge de config files.
