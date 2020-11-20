@@ -153,3 +153,6 @@ Atualizando as bibliotecas do blog e instalando ferrementas de desenvolvimento d
 
 ### R1D50
 Criando dev server com webpack e fazendo merge de config files.
+
+### R1D51
+Terminado o aprendizado de conhecimentos básicos de webpack, partindo para a leitura do guide na página oficial.
