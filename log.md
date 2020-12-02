@@ -156,3 +156,9 @@ Criando dev server com webpack e fazendo merge de config files.
 
 ### R1D51
 Terminado o aprendizado de conhecimentos básicos de webpack, partindo para a leitura do guide na página oficial.
+
+### R1D52
+Atualizando projetos que usam parcel como bundler para webpack.
+
+### R1D53
+Testando carregamento de imagens no webapack.
