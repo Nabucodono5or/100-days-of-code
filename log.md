@@ -162,3 +162,6 @@ Atualizando projetos que usam parcel como bundler para webpack.
 
 ### R1D53
 Testando carregamento de imagens no webapack.
+
+### R1D54
+Entendendo a minimização de imagens pelo webpack.
