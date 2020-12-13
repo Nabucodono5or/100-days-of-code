@@ -165,3 +165,9 @@ Testando carregamento de imagens no webapack.
 
 ### R1D54
 Entendendo a minimização de imagens pelo webpack.
+
+### R1D55
+Conseguindo minimizar as imagens no webpack.
+
+### R1D56
+Criando templates de html.
