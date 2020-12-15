@@ -171,3 +171,6 @@ Conseguindo minimizar as imagens no webpack.
 
 ### R1D56
 Criando templates de html.
+
+### R1D57
+Lidando com servers em webpack.
