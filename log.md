@@ -174,3 +174,6 @@ Criando templates de html.
 
 ### R1D57
 Lidando com servers em webpack.
+
+### R1D58
+Trabalhando com chunks de bundles, dinamicamente e pelo plugin, e testando eficiência do bundle.
