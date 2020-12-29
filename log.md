@@ -177,3 +177,6 @@ Lidando com servers em webpack.
 
 ### R1D58
 Trabalhando com chunks de bundles, dinamicamente e pelo plugin, e testando eficiência do bundle.
+
+### R1D59
+Criando bibliotecas com webpack.
